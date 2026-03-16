@@ -9,6 +9,7 @@ def main():
     print("Hello World!")
 
     name = "Jimi" # TODO: Insert your name between the double quotes
+    age = 20
 
     print(f"{name}, Welcome to the CSS course!")
 
